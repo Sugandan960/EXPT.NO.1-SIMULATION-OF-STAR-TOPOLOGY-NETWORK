@@ -5,7 +5,7 @@
 # EQUIPMENTS REQUIRED
 
 Desktop computer
-Cisco Packet Tracer 5.0 Software
+Cisco Packet Tracer 5.0 Software.
 
 
 # PROCEDURE
